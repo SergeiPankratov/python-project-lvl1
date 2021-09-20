@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 
-import prompt
 import random
+
+import prompt
 
 
 def even_game():
