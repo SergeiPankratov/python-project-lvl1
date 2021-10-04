@@ -8,3 +8,8 @@
 Asciinema brain_even, lose and win.
 
 https://asciinema.org/a/9fMxH07WAFlFctIFMMSH5nw4i
+
+Asciinema brain_calc:
+
+<a href="https://asciinema.org/a/xxusznJgUC4sVWcr0RbPvPMxI">
+
