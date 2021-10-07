@@ -8,6 +8,11 @@
 Asciinema brain_even:
 
 [![asciicast](https://asciinema.org/a/9fMxH07WAFlFctIFMMSH5nw4i.svg)](https://asciinema.org/a/9fMxH07WAFlFctIFMMSH5nw4i)
+
 Asciinema brain_calc:
 
 [![asciicast](https://asciinema.org/a/xxusznJgUC4sVWcr0RbPvPMxI.svg)](https://asciinema.org/a/xxusznJgUC4sVWcr0RbPvPMxI)
+
+Asciinema brain_gcd:
+
+[![asciicast](https://asciinema.org/a/dm8qK8c6zQwioyxiE0rdJQv8N.svg)](https://asciinema.org/a/dm8qK8c6zQwioyxiE0rdJQv8N)
