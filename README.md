@@ -18,4 +18,8 @@ Asciinema brain-gcd:
 
 Asciinema brain-progression:
 
-[![asciicast](https://asciinema.org/a/4VvVXuBfqe0v9k93lTNX0OBPF.svg)](https://asciinema.org/a/4VvVXuBfqe0v9k93lTNX0OBPF)
+[![asciicast](https://asciinema.org/a/4VvVXuBfqe0v9k93lTNX0OBPF.svg)](https://asciinema.org/a/4VvVXuBfqe0v9k93lTNX0OBPF)
+
+Asciinema brain-prime:
+
+[![asciicast](https://asciinema.org/a/4VvVXuBfqe0v9k93lTNX0OBPF.svg)](https://asciinema.org/a/4VvVXuBfqe0v9k93lTNX0OBPF)
