@@ -28,10 +28,10 @@ def even_game():
             counter += 4
             if answer == 'yes':
                 print("'yes' is wrong answer ;(. Correct answer was 'no'.")
-                print(f"Let's try again, {name}")
+                print(f"Let's try again, {name}!")
             else:
                 print("'no' is wrong answer ;(. Correct answer was 'yes'.")
-                print(f"Let's try again, {name}")
+                print(f"Let's try again, {name}!")
     if counter == 3:
         print(f'Congratulations, {name}!')
 
