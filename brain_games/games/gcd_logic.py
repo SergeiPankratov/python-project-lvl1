@@ -27,6 +27,7 @@ def gcd(a, b):
 
 def game_gcd():
     name = brain_games.games.cli.welcome_user()
+    print('Find the greatest common divisor of given numbers.')
     counter = 0
     while counter < 3:
         number_one = random.randint(1, 1000)
