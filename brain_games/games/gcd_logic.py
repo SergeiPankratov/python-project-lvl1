@@ -33,7 +33,7 @@ def game_gcd():
         number_one = random.randint(1, 1000)
         number_two = random.randint(1, 1000)
         result = str(gcd(number_one, number_two))
-        print('Question', number_one, number_two)
+        print('Question: ', number_one, number_two)
         answer = input('Your answer: ')
         if answer == result:
             counter += 1
