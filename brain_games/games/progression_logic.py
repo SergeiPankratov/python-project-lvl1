@@ -40,7 +40,7 @@ def game_progression():
 
         else:
             counter += 4
-            print(f"'{answer}' is wrong answer ;(.", end = '')
+            print(f"'{answer}' is wrong answer ;(.", end='')
             print(f"Correct answer was '{random_number}'")
 
     if counter == 3:

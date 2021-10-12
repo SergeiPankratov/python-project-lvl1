@@ -14,7 +14,7 @@ def is_prime(n):
 
 def is_prime_game():
     name = brain_games.games.cli.welcome_user()
-    print('Answer "yes" if given number is prime. ', end = '')
+    print('Answer "yes" if given number is prime. ', end='')
     print('Otherwise answer "no".')
     counter = 0
     while counter < 3:
@@ -28,12 +28,12 @@ def is_prime_game():
                 print('Correct!')
             else:
                 counter += 4
-                print(f"'{answer}' is wrong answer ;(. ", end = '')
+                print(f"'{answer}' is wrong answer ;(. ", end='')
                 print("Correct answer was 'no'")
         else:
             if result:
                 counter += 4
-                print(f"'{answer}' is wrong answer ;(. ", end = '')
+                print(f"'{answer}' is wrong answer ;(. ", end='')
                 print("Correct answer was 'yes'")
 
             else:

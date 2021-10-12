@@ -40,7 +40,7 @@ def game_gcd():
             print('Correct!')
         else:
             counter += 4
-            print(f"'{answer}' is wrong answer ;(.", end = '')
+            print(f"'{answer}' is wrong answer ;(.", end='')
             print(f"Correct answer was '{result}'")
 
     if counter == 3:
